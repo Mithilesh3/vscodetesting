@@ -1,1 +1,1 @@
-print("hello ,bhai kya haal chal")python te
+print("hello ,bhai kya haal chal")
